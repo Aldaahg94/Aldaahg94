@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Aldaahg94
-- 👀 I’m interested in Programming 🥷, Computer Science 💻, Videogames 🎮 and Fútbol ⚽.
+- 👀 I’m interested in Programming 🥷, Videogames 🎮 and Fútbol ⚽.
 - 🌱 I’m currently learning ReactJS, AngularJS and Python.
 
 <!---
